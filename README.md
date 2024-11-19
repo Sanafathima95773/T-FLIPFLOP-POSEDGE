@@ -36,7 +36,9 @@ From the above characteristic table, we can directly write the next state equati
 4 Create nodes for inputs and outputs to generate the timing diagram.
 
 5 For different input combinations generate the timing diagram.
+
 **PROGRAM**
+
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: Sana Fathima H
  RegisterNumber: 212223240145
@@ -61,7 +63,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/14614925-4961-4948-8cd8-6a400148bb63)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 ![Screenshot 2024-11-19 220409](https://github.com/user-attachments/assets/de9628fa-2e88-4dbd-ab6a-5c4f79d75f4e)
 
 **RESULTS**
